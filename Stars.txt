@@ -1,0 +1,10 @@
+Types of Stars:
+- Class O
+- Class B
+- Class A
+- Class F
+- Class G
+- Class K
+- Class M
+- Class L
+- Class Y
