@@ -1,0 +1,7 @@
+Here are a list of space rocks:
+
+1. Asteroids
+2. Comets
+3. Meteoroids
+4. Meteors
+5. Meteorites
