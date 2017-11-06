@@ -7,4 +7,5 @@ Types of Stars:
 - Class K
 - Class M
 - Class L
+- Class T
 - Class Y
